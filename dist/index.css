@@ -1,0 +1,2 @@
+body{background:#00f;border-radius:50%}body .wrapper{display:flex;justify-content:center;flex-direction:column;align-items:center}body .wrapper button{margin:10px;padding:10px;width:60px;text-align:center}body .wrapper #add{background:red;border-radius:50%}body .wrapper #minus{background:#ff0;border-radius:50%}.wrapper span{margin:5px;font-size:55px;border-radius:50%}
+/*# sourceMappingURL=/index.css.map */
